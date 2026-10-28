@@ -1,0 +1,12 @@
+{
+  "name": "mrn-officialx",
+  "version": "1.0.0",
+  "description": "MRN Official proxy with Vercel Speed Insights",
+  "scripts": {
+    "build": "echo 'No build required'",
+    "lint": "echo 'No linting configured'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
